@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(aerospace list-events:*)",
+      "Bash(aerospace --help)",
+      "Bash(aerospace list-exec-env-vars:*)",
+      "Read(//Users/mager/**)"
+    ]
+  }
+}
